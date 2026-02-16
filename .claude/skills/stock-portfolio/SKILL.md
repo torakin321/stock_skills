@@ -12,7 +12,7 @@ $ARGUMENTS を解析してコマンドを判定し、以下のコマンドを実
 ## 実行コマンド
 
 ```bash
-python3 /Users/kikuchihiroyuki/stock-skills/.claude/skills/stock-portfolio/scripts/run_portfolio.py <command> [args]
+python3 /Users/torak/Documents/Claude/stock/stock_skills/.claude/skills/stock-portfolio/scripts/run_portfolio.py <command> [args]
 ```
 
 ## コマンド一覧

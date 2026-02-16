@@ -12,7 +12,7 @@ $ARGUMENTS を解析して region、preset、sector を判定し、以下のコ�
 ## 実行コマンド
 
 ```bash
-python3 /Users/kikuchihiroyuki/stock-skills/.claude/skills/screen-stocks/scripts/run_screen.py --region <region> --preset <preset> [--sector <sector>] [--top <N>] [--mode <query|legacy>]
+python3 /Users/torak/Documents/Claude/stock/stock_skills/.claude/skills/screen-stocks/scripts/run_screen.py --region <region> --preset <preset> [--sector <sector>] [--top <N>] [--mode <query|legacy>]
 ```
 
 ## 引数の解釈ルール

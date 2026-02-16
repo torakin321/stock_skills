@@ -12,7 +12,7 @@ $ARGUMENTS を解析してリサーチタイプと対象を判定し、以下の
 ## 実行コマンド
 
 ```bash
-python3 /Users/kikuchihiroyuki/stock-skills/.claude/skills/market-research/scripts/run_research.py <command> <target>
+python3 /Users/torak/Documents/Claude/stock/stock_skills/.claude/skills/market-research/scripts/run_research.py <command> <target>
 ```
 
 ## 引数の解釈ルール

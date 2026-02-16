@@ -10,7 +10,7 @@ allowed-tools: Bash(python3 *)
 $ARGUMENTS からティッカーシンボルを取り出し、以下のコマンドを実行してください。
 
 ```bash
-python3 /Users/kikuchihiroyuki/stock-skills/.claude/skills/stock-report/scripts/generate_report.py $ARGUMENTS
+python3 /Users/torak/Documents/Claude/stock/stock_skills/.claude/skills/stock-report/scripts/generate_report.py $ARGUMENTS
 ```
 
 結果をそのまま表示してください。

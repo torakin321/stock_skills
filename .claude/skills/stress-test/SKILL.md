@@ -12,7 +12,7 @@ $ARGUMENTS を解析してポートフォリオ銘柄リストとシナリオを
 ## 実行コマンド
 
 ```bash
-python3 /Users/kikuchihiroyuki/stock-skills/.claude/skills/stress-test/scripts/run_stress_test.py --portfolio <symbols> [--scenario <scenario>] [--weights <weights>]
+python3 /Users/torak/Documents/Claude/stock/stock_skills/.claude/skills/stress-test/scripts/run_stress_test.py --portfolio <symbols> [--scenario <scenario>] [--weights <weights>]
 ```
 
 ## 引数の解釈ルール
